@@ -84,7 +84,7 @@ func start(ctx *ext.Context) error {
 		"--------------------------------------------------\n" +
 		"Do /gen to generate an account\n" +
 		"--------------------------------------------------\n" +
-		"❤️Brought to You By @Stardevs❤️\n*"
+		"❤️Hope u like it❤️\n*"
 
 	user := ctx.EffectiveUser
 	channel_id, cerror := strconv.Atoi(os.Getenv("CHANNEL_ID"))
