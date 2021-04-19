@@ -58,14 +58,14 @@ func randomFormat() string {
 		// Put your accounts here
 		// "email:pass",
 		// Following are some demo accounts
-		"sharan.thatsme@gmail.com:ganesha86",
-		"kushagra.khare04@gmail.com:9450461810",
-		"gaurav.apt@gmail.com:cashc0w",
-		"ananthusatheesh89@gmail.com:50thregenesis",
-		"ankitraghavec2015@gmail.com:akku_8802",
-		"jasmeetsingh2027@gmail.com:banaliid",
-		"ashishgupta0586@gmail.com:welcome",
-		"uferatanyeem@gmail.com:viewsonic20",
+		"sibilrajan@gmail.com:Poker@123",
+		"raji.gunadevan@gmail.com:copperchair",
+		"vikram.singh2713@gmail.com:seema2727",
+		"vivek.janardhan@gmail.com:usa123",
+		"pramod.dwivedi@gmail.com:legend2554",
+		"vidheeth@hotmail.com:argentina",
+		"urs_parth@yahoo.co.in:asshole",
+		"online.dijems@gmail.com:garihc",
 	}
 
 	return formats[rand.Intn(len(formats))]
